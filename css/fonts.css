@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'AmericanCaptain';
+	src: url('../fonts/AmericanCaptain_gdi.ttf')format('trutype'),
+		url('../fonts/AmericanCaptain_gdi.woff')format('woff');
+}
+
+@font-face {
+	font-family: 'Charming';
+	src: url('../fonts/Charming_gdi.ttf')format('trutype'),
+		url('../fonts/Charming_gdi.woff')format('woff');
+}
+
+@font-face {
+	font-family: 'Sprite-Graffiti-Shadow';
+	src: url('../fonts/Sprite-Graffiti-Shadow_gdi.ttf')format('trutype'),
+		url('../fonts/Sprite-Graffiti-Shadow_gdi.woff')format('woff');
+}
+
+@font-face {
+	font-family: 'GeorgiaItalic';
+		src: url(../fonts/GeorgiaItalic_gdi.ttf)format('truetype'),
+			 url(../fonts/GeorgiaItalic_gdi.woff)format('woff');
+}
+
+@font-face {
+	font-family: 'Stylo-Bold';
+		src: url(../fonts/Stylo-Bold.ttf)format('truetype'),
+			 url(../fonts/Stylo-Bold.woff)format('woff');
+}
+
+@font-face {
+	font-family: 'PFDinTextCompPro-Bold';
+		src: url(../fonts/PFDinTextCompPro-Bold.ttf)format('truetype'),
+			 url(../fonts/PFDinTextCompPro-Bold.woff)format('woff');
+}
+
+@font-face {
+	font-family: 'ExposureTwoC';
+		src: url(../fonts/ExposureTwoC.ttf)format('truetype'),
+			 url(../fonts/ExposureTwoC.woff)format('woff');
+}
